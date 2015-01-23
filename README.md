@@ -1,2 +1,4 @@
 # hello-github
-first repository - just for tutorial and playing around
+my first repository - just for tutorial and playing around
+
+lets see how far we can get
